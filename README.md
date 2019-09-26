@@ -4,7 +4,7 @@
 Écija (Sevilla)  
 
 ![Entornos de desarrollo](http://jamj2000.github.io/entornosdesarrollo/entornosdesarrollo.png)
-![Prueba](https://www.nocturnar.com/imagenes/imagenes-bonitas/Imagenes-con-mensajes-chidos-de-amor.jpg)
+
 
 ## Contenidos del módulo
 
